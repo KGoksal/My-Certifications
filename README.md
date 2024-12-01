@@ -17,6 +17,4 @@ This is a simple webpage showcasing my professional certifications in cloud comp
 - **Certifications Section**: Provides detailed descriptions of each certification.
 - **Footer**: Includes a copyright notice.
 
-## How to Use:
-1. Clone the repository.
-2. Open `index.html` in a web browser to view the webpage.
+
