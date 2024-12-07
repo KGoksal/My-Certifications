@@ -16,5 +16,3 @@ This is a simple webpage showcasing my professional certifications in cloud comp
 - **Image Gallery**: A gallery of certification images with hover effects.
 - **Certifications Section**: Provides detailed descriptions of each certification.
 - **Footer**: Includes a copyright notice.
-
-
