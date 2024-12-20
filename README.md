@@ -7,6 +7,7 @@ This is a simple webpage showcasing my professional certifications in cloud comp
 
 ## Certifications Featured:
 - **HashiCorp Terraform Associate**: Validates expertise in infrastructure as code using Terraform for automating cloud provisioning.
+- **AWS Certified Solutions Architect**: This exam focuses on designing cost-effective, scalable, high-performing, and resilient cloud solutions within the AWS platform
 - **Azure Fundamentals**: Demonstrates foundational knowledge of cloud services and Azure offerings.
 - **Certified Kubernetes Administrator (CKA)**: Certifies proficiency in managing and troubleshooting Kubernetes clusters.
 - **CCNA: Introduction to Networks**: Covers foundational networking concepts, including infrastructure, security, and automation.
