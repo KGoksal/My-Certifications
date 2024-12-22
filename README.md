@@ -1,4 +1,3 @@
-
 # My Certifications Webpage
 
 This is a simple webpage showcasing my professional certifications in cloud computing, infrastructure, and networking. The page includes a gallery of certification images and brief descriptions of each certification.
